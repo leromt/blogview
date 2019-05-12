@@ -20,7 +20,7 @@ class ViewController: UIViewController, UITableViewDataSource, UITableViewDelega
      @IBOutlet weak var actorCellView: UIView!
      */
     @IBOutlet weak var tableView: UITableView!
-    final let url = URL(string: "https://juniorofficer.army.mil/wp-json/wp/v2/posts?categories=660")
+    final let url = URL(string: "https://juniorofficer.army.mil/wp-json/wp/v2/posts?categories=613")
     
    // tableView.rowHeight = UITableViewAutomaticDimension
     
